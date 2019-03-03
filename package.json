@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jstone074/FriendFinder#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.16.4",
     "path": "^0.12.7"
   }

@@ -1,4 +1,5 @@
 var friendsArray = require("../data/friend");
+var cors = require("cors");
 
 // ===============================================================================
 // ROUTING
@@ -6,7 +7,7 @@ var friendsArray = require("../data/friend");
 
 module.exports = (app) => {
 
-    app.get("/api/friends", (req,res) => {
+    app.get("/api/friends", cors(), (req,res) => {
 
         res.json(friendsArray);
 
