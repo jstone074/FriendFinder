@@ -2,7 +2,7 @@ var friendsArray = [
 
 {
   name:"Bulbasaur",
-  photo :"https://imgur.com/gallery/Ebob4pt",
+  photo :"https://i.imgur.com/Ebob4pt.gif",
   scores:[
       1,
       1,
@@ -19,7 +19,7 @@ var friendsArray = [
 
 {
   name:"Pikachu",
-  photo :"https://imgur.com/gallery/hWTLxYP",
+  photo :"https://i.imgur.com/hWTLxYP.gif",
   scores:[
       1,
       3,
@@ -33,10 +33,9 @@ var friendsArray = [
       1
     ]
 },
-
 {
   name:"Charmander",
-  photo :"https://imgur.com/gallery/u3jGdtQ",
+  photo:"https://i.imgur.com/u3jGdtQ.gif",
   scores:[
       1,
       5,
@@ -50,10 +49,9 @@ var friendsArray = [
       3
     ]
 },
-
 {
 name:"Dragonite",
-photo :"https://imgur.com/gallery/8fBeIF8",
+photo:"https://i.imgur.com/8fBeIF8.gif",
 scores:[
     3,
     3,
