@@ -1,4 +1,4 @@
-# FriendFinder
+# PokeMatch
 
 ## A Pokemon Themed Friend Finding Application!
 
